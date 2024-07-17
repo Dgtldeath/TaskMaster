@@ -1,0 +1,9 @@
+.newTaskCheckbox {
+    font-size: .9em;
+}
+
+#AlreadyCompleteTask, #TaskRepeatingWeekly {
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
